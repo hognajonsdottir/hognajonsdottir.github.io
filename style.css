@@ -1,9 +1,11 @@
 #duwo-mynd
 {
-
+    width: auto;
+    height: 200px;
+    opacity: 80%;
 }
 
 #duwo-mynd:hover
 {
-    box-shadow: 5px 10px;
+    opacity: 100%;
 }
