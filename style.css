@@ -20,6 +20,15 @@ a
     display: inline;
     color: black;
 }
+a::after
+{
+    color: black;
+}
+
+a::before
+{
+    color: black;
+}
 
 #hogna-icon
 {
