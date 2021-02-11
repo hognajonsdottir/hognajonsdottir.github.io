@@ -1,3 +1,32 @@
+head
+{
+    margin: 20px;
+    margin-bottom: 40px;
+}
+
+
+ul
+{
+}
+
+li
+{
+    display: inline;
+    margin: 20px;
+}
+
+a
+{
+    display: inline;
+}
+
+#hogna-icon
+{
+    width: auto;
+    height: 50px;
+    float: left;
+}
+
 #duwo-mynd
 {
     width: auto;
